@@ -1,0 +1,9 @@
+{
+  "name": "zebflow",
+  "description": "Skills for building Zebflow projects: pipelines, pages on the RWE engine, the zeb/ui component set, data, auth, files and the editor, verification, the Hub.",
+  "version": "0.9.0",
+  "author": { "name": "Zebflow" },
+  "license": "MIT",
+  "keywords": ["zebflow", "pipelines", "mcp", "tsx", "zeb-ui", "agent-skills"],
+  "skills": ["./skills/procedural-assets","./skills/zebflow-auth","./skills/zebflow-basic","./skills/zebflow-data","./skills/zebflow-files-editor","./skills/zebflow-hub","./skills/zebflow-pipeline","./skills/zebflow-rwe","./skills/zebflow-ui","./skills/zebflow-verify"]
+}
